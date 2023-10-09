@@ -1,4 +1,4 @@
-### Image Classifier using CIFAR-10 Dataset
+# Image Classifier using CIFAR-10 Dataset
 This project is an image classifier that uses a Convolutional Neural Network (CNN) to classify images from the CIFAR-10 dataset. It loads a pre-trained model and can predict the class of a given image.
 
 ## Table of Contents
