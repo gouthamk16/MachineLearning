@@ -1,6 +1,6 @@
-# GK Image to Text Web App
+# Image to Text Web App by Goutham
 
-**GK Image to Text** is a web application that allows users to upload images and convert them into text using Optical Character Recognition (OCR). The converted text can be copied for further use.
+**Image to Text** is a web application that allows users to upload images and convert them into text using Optical Character Recognition (OCR). The converted text can be copied for further use.
 
 ## Features
 
